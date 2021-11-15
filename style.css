@@ -1,0 +1,100 @@
+  
+.title {
+    margin: 0;
+    padding: 0px;
+    background-color: #537791; ;
+    color: white;
+    font-family: 'MedievalSharp', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 75px;
+    
+}
+
+.what-city {
+    font-family: 
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    background-color:#c1c0b9;
+    color: white;
+}
+
+.previous-search {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    color: #537791;
+    background-color: #c1c0b9; 
+}
+ .forecast-banner {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 60px;
+ }
+
+.current-city {
+    font-family: font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    
+    color: #537791
+
+}
+
+.forecast-day {
+    background-color: #e7e6e1;
+    color: #537791;
+    margin: 4px;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.ficon {
+    align-items: center;
+}
+
+.current-condition {
+    margin: 10px;
+    background-color: #e7e6e1;
+    border: 0px;
+}
+
+input {
+    margin-left: 5px;
+}
+
+button {
+    background-color: #4c74c9;
+    border: none;
+    color: whitesmoke;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+button:active {
+    background-color: rgb(104, 104, 104);
+}
+
+button:hover {
+    background-color: rgb(104, 104, 104);
+}
+
+.list-group-item {
+    background-color: ;
+    border: none;
+    color: black;
+    border-top-left-radius: 5px;
+    font-weight: bolder;
+}
+
+.clear {
+    background-color: rgb(48, 47, 47); }
+
+.clear:active {
+    background-color: rgb(48, 47, 47);
+    border: none; 
+}
+
+.list-group-item:active {
+    background-color: #FDF5DF;
+}
